@@ -1,4 +1,2 @@
 # caffe
-test
-
 my caffe
